@@ -234,6 +234,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/logos/facebook.png": {
+		"ft": 32768,
+		"iS": 1800,
+		"oA": 0,
+		"oAP": "/assets/img/logos/facebook.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/logos/instagram.png": {
+		"ft": 32768,
+		"iS": 4170,
+		"oA": 0,
+		"oAP": "/assets/img/logos/instagram.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/logos/mail.png": {
+		"ft": 32768,
+		"iS": 962,
+		"oA": 0,
+		"oAP": "/assets/img/logos/mail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/play.png": {
 		"ft": 32768,
 		"iS": 6126,
