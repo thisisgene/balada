@@ -34,9 +34,31 @@ body
   @media(min-width: 921px)
 
     display: flex
+    flex-direction: column
     align-items: center
     justify-content: center
-    height: 100vh
+    padding-top: 2rem
+  .video 
+    margin-top: 1rem
+    overflow: hidden
+    position: relative
+    width: 100%
+    max-width: 875px
+
+
+  .video::after 
+      padding-top: 56.25%
+      display: block
+      content: ''
+  
+
+  .video iframe 
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+  
 
 .bg-img
   position: fixed
